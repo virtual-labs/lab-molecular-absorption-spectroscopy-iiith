@@ -1,93 +1,103 @@
 {
-    "broadArea": {
-        "name": "Chemical Sciences",
-        "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
-    },
-    "lab": "Molecular Absorption Spectroscopy",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IIITH",
-    "baseUrl": "mas-iiith.vlabs.ac.in",
-    "introduction": "This lab is about molecular absorption spectroscopy. Spectroscopy is an essential tool for physical scientists and is included in many UG and PG curricula. Spectroscopy uses the absorption, emission, or scattering of electromagnetic radiation by atoms, molecules or their ions, is employed to study these species and many physical processes. Various kinds of molecular spectroscopic techniques, such as UV-Vis (absorption) spectroscopy, fluorescence (emission) spectrometry, CD/ORD spectroscopy, infrared spectroscopy, Raman spectroscopy, NMR spectroscopy, mass spectrometry etc. are used. All methods except mass spectrometry are based on electronic radiation. Depending on the wavelength of interaction, we get information about different parts of molecules, for example, UV-Vis and Fluorescence spectroscopies --- ' electronic structure ', Infrared and Raman spectroscopies --- ' vibrations and/or rotations ' , CD/ORD spectroscopy --- ' chirality ', etc. Absorption spectroscopy involves the transfer of energy from the radiation field to the atom or molecule. In other words, it involves the measurement of the wavelength and intensity of absorption of light by a sample.</br></br>UV-visible absorption spectroscopy is used in identifications of many types of organic and inorganics molecules and ions, quantitative determinations of many biological, organic, and inorganic species, determinations of equilibrium constants, determinations of stoichiometry of chemical reactions, monitoring of reaction rates, etc.</br></br>Terms:</br>Wavelength (λ): Crest-to-crest distance between waves.</br>Frequency (ν): Number of complete oscillations that the wave makes each second (units: number of oscillations/sec or s-1 or Hertz (Hz).</br>Light speed: in vacuum: c = 2.998 x 108 m s-1</br>in other media: c/n (n = refractive index, generally > 1; n = 1 for vacuum,</br>n= 1.0002926 in air).</br>c/n = ν λ</br></br>The relationship between energy and frequency is given as follows:</br>E = hν = hc/λ = hcῡ</br></br>h = Planck’s constant (6.626 x 10-34 J s and ῡ= wavenumber (most common unit is cm-1)</br>Energy is proportional to the frequency or wavenumber but inversely proportional to the wavelength.</br>Spectrum: A plot of intensity vs. frequency, wavelength or wavenumber.</br>We see often the UV/Vis spectra as spectral bands in polar solvents like water. One can observe electronic fine structure in some solvents or vibrational transitions in gas phase spectra.</br></br>  </br>Photons of electromagnetic radiation of different energies (frequencies or wavelengths) interact with molecules in a variety of ways:</br>1. X-rays can excite and eject inner shell electrons, causing ionization and bond fragmentation.</br>2. Ultraviolet (UV) radiation causes high energy electronic transitions and visible radiation induces low energy electronic transitions in molecules. The resulting excited states may relax via bond breakage or various radiative and non-radiative pathways.</br> 3. Infrared (IR) radiation causes vibrations in molecular bonds, such as bond stretching, bond bending etc. Therefore, IR spectroscopy is often called vibrational spectroscopy.</br>4. Microwaves can cause the molecules to rotate in the gas phase. This is the subject matter of microwave or rotational spectroscopy.</br>5. Radio waves can induce resonance of atomic nuclei rotation in a strong magnetic field. This is the subject of nuclear magnetic resonance (NMR) spectroscopy.</br></br>Chromophores: Functional groups that participate in electronic transitions.</br></br>Auxochromes: Substituents with unshared pair of electrons (e.g., -OH, -NH2, -SH, etc.). When such substituents are attached to π bond containing chromophores, they generally move the absorption max. (λmax) to longer wavelength, λ. Bathochromic Shift (Red shift): A shift of λmax to longer wavelength, λ (lower energy). Hypsochromic Shift (Blue shift): A shift of λmax to shorter wavelength, λ (higher energy). Hyperchromism: An increase in intensity of a spectral band. Hypochromism: A decrease in intensity of a spectral band. In Absorption Spectroscopy (UV-Visible), Hyperchromic shift means an increase in Absorbance (extinction coefficient, ε) and Hypochromic shift means a decrease in Absorbance (extinction coefficient, ε).</br></br>Relevant Topics Properties of light; Molecular electronic structures; Interaction of photons with molecules; Electronic transitions, Beer-Lambert law.",
-    "experiments": [
+  "broadArea": {
+    "name": "Chemical Sciences",
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+  },
+  "lab": "Molecular Absorption Spectroscopy",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "mas-iiith.vlabs.ac.in",
+  "introduction": "This lab is about molecular absorption spectroscopy. Spectroscopy is an essential tool for physical scientists and is included in many UG and PG curricula. Spectroscopy uses the absorption, emission, or scattering of electromagnetic radiation by atoms, molecules or their ions, is employed to study these species and many physical processes. Various kinds of molecular spectroscopic techniques, such as UV-Vis (absorption) spectroscopy, fluorescence (emission) spectrometry, CD/ORD spectroscopy, infrared spectroscopy, Raman spectroscopy, NMR spectroscopy, mass spectrometry etc. are used. All methods except mass spectrometry are based on electronic radiation. Depending on the wavelength of interaction, we get information about different parts of molecules, for example, UV-Vis and Fluorescence spectroscopies --- ' electronic structure ', Infrared and Raman spectroscopies --- ' vibrations and/or rotations ' , CD/ORD spectroscopy --- ' chirality ', etc. Absorption spectroscopy involves the transfer of energy from the radiation field to the atom or molecule. In other words, it involves the measurement of the wavelength and intensity of absorption of light by a sample.</br></br>UV-visible absorption spectroscopy is used in identifications of many types of organic and inorganics molecules and ions, quantitative determinations of many biological, organic, and inorganic species, determinations of equilibrium constants, determinations of stoichiometry of chemical reactions, monitoring of reaction rates, etc.</br></br><strong>Terms:</strong></br><strong>Wavelength (λ)</strong>: Crest-to-crest distance between waves.</br><strong>Frequency (ν)</strong>: Number of complete oscillations that the wave makes each second (units: number of oscillations/sec or s-1 or Hertz (Hz).</br><strong>Light speed:</strong> in vacuum: c = 2.998 x 108 m s-1</br>in other media: c/n (n = refractive index, generally > 1; n = 1 for vacuum,</br>n= 1.0002926 in air).</br>c/n = ν λ</br></br>The relationship between energy and frequency is given as follows:</br>E = hν = hc/λ = hcῡ</br></br>h = Planck’s constant (6.626 x 10-34 J s and ῡ= wavenumber (most common unit is cm-1)</br>Energy is proportional to the frequency or wavenumber but inversely proportional to the wavelength.</br><strong>Spectrum:</strong> A plot of intensity vs. frequency, wavelength or wavenumber.</br>We see often the UV/Vis spectra as spectral bands in polar solvents like water. One can observe electronic fine structure in some solvents or vibrational transitions in gas phase spectra.</br></br> <img src='https://user-images.githubusercontent.com/11156924/127005346-712363ab-93e8-4a19-bc75-7b6754683fea.png'> </br>Photons of electromagnetic radiation of different energies (frequencies or wavelengths) interact with molecules in a variety of ways:</br>1. X-rays can excite and eject inner shell electrons, causing ionization and bond fragmentation.</br>2. Ultraviolet (UV) radiation causes high energy electronic transitions and visible radiation induces low energy electronic transitions in molecules. The resulting excited states may relax via bond breakage or various radiative and non-radiative pathways.</br> 3. Infrared (IR) radiation causes vibrations in molecular bonds, such as bond stretching, bond bending etc. Therefore, IR spectroscopy is often called vibrational spectroscopy.</br>4. Microwaves can cause the molecules to rotate in the gas phase. This is the subject matter of microwave or rotational spectroscopy.</br>5. Radio waves can induce resonance of atomic nuclei rotation in a strong magnetic field. This is the subject of nuclear magnetic resonance (NMR) spectroscopy.</br></br>Chromophores: Functional groups that participate in electronic transitions.</br></br>Auxochromes: Substituents with unshared pair of electrons (e.g., -OH, -NH2, -SH, etc.). When such substituents are attached to π bond containing chromophores, they generally move the absorption max. (λmax) to longer wavelength, λ. Bathochromic Shift (Red shift): A shift of λmax to longer wavelength, λ (lower energy). Hypsochromic Shift (Blue shift): A shift of λmax to shorter wavelength, λ (higher energy). Hyperchromism: An increase in intensity of a spectral band. Hypochromism: A decrease in intensity of a spectral band. In Absorption Spectroscopy (UV-Visible), Hyperchromic shift means an increase in Absorbance (extinction coefficient, ε) and Hypochromic shift means a decrease in Absorbance (extinction coefficient, ε).</br></br><strong>Relevant Topics</strong> Properties of light; Molecular electronic structures; Interaction of photons with molecules; Electronic transitions, Beer-Lambert law.",
+  "experiments": [
     {
       "name": "Familiarization with the UV-Visible Absorption Spectroscopy",
       "short-name": "uv-visible-spectroscopy",
       "repo": "https://github.com/virtual-labs/exp-uv-visible-spectroscopy-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Solvent Effects on the UV-visible Absorption Spectra",
       "short-name": "uv-visible-spectra",
       "repo": "https://github.com/virtual-labs/exp-uv-visible-spectra-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Effects of sample path length Dependence of Absorbance (Lambert Law)",
       "short-name": "lambert-law",
       "repo": "https://github.com/virtual-labs/exp-lambert-law-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Effects of sample concentration Dependence of Absorbance (Beer Law)",
       "short-name": "beer-law",
       "repo": "https://github.com/virtual-labs/exp-beer-law-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of the Molar Absorptivity of a Light Absorbing Molecule",
       "short-name": "molar-absorptivity",
       "repo": "https://github.com/virtual-labs/exp-molar-absorptivity-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Verification of Beer-Lambert Law",
       "short-name": "beer-lambert-law",
       "repo": "https://github.com/virtual-labs/exp-beer-lambert-law-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Determination of unknown concentration of an analyte by using the Beer-Lambert Law ",
       "short-name": "unknown-concentration-analyte",
       "repo": "https://github.com/virtual-labs/exp-unknown-concentration-analyte-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance",
       "short-name": "additivity-of-absorbance",
       "repo": "https://github.com/virtual-labs/exp-additivity-of-absorbance-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "pH effects on absorption spectra: pKa determination by spectrophotometric method",
       "short-name": "spectrophotometric-method",
       "repo": "https://github.com/virtual-labs/exp-spectrophotometric-method-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Study of kinetics of a reaction by using spectrophotometric method ",
       "short-name": "study-of-kinetics",
       "repo": "https://github.com/virtual-labs/exp-study-of-kinetics-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "Engineering Chemistry 1st year B. Tech. in Chemical / Materials / IT / Civil / Mech. / Electrical / Textile / Agricultural Engg",
+      "B. Pharm., Biotech., Biomed. Engg.",
+      "B. Sc. (Hons.) in Chemistry/Phys./Biol./Biophys"
     ],
-    "targetAudience": {
-        "UG": ["Engineering Chemistry 1st year B. Tech. in Chemical / Materials / IT / Civil / Mech. / Electrical / Textile / Agricultural Engg", "B. Pharm., Biotech., Biomed. Engg.","B. Sc. (Hons.) in Chemistry/Phys./Biol./Biophys"],
-        "PG": ["Chemistry, Chemical/Materials/Biomedical Engg., Biotech & Pharm.", "Ph. D. Beginners"]
-    },
-    "objective": "This lab aims at demonstrating how to design absorption measurements in a spectrophotometer and how to use absorption spectroscopy as an analytical tool.",
-    "courseAlignment": {
-        "description": "Physical and Analytical Chemistry of molecular absorption spectroscopy and their applications.",
-        "universities": ["Universities with Chemical Sciences"]
-    }
+    "PG": [
+      "Chemistry, Chemical/Materials/Biomedical Engg., Biotech & Pharm.",
+      "Ph. D. Beginners"
+    ]
+  },
+  "objective": "This lab aims at demonstrating how to design absorption measurements in a spectrophotometer and how to use absorption spectroscopy as an analytical tool.",
+  "courseAlignment": {
+    "description": "Physical and Analytical Chemistry of molecular absorption spectroscopy and their applications.",
+    "universities": ["Universities with Chemical Sciences"]
+  },
+  "exp_name": "Study of kinetics of a reaction by using spectrophotometric method ",
+  "exp_short_name": "study-of-kinetics",
+  "version": "v0.4.0"
 }
