@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Chemical Sciences",
-    "link": "https://www.vlab.co.in/broad-area-chemical-sciences"
+    "link": "https://www.vlab.co.in/broad-area-chemical-sciences",
+    "code": "CHEMSCI"
   },
   "lab": "Molecular Absorption Spectroscopy",
   "deployLab": true,
@@ -96,8 +97,5 @@
   "courseAlignment": {
     "description": "Physical and Analytical Chemistry of molecular absorption spectroscopy and their applications.",
     "universities": ["Universities with Chemical Sciences"]
-  },
-  "exp_name": "Study of kinetics of a reaction by using spectrophotometric method ",
-  "exp_short_name": "study-of-kinetics",
-  "version": "v0.5.0"
+  }
 }
