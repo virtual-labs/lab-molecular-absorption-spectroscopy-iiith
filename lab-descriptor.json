@@ -5,7 +5,7 @@
     "code": "CHEMSCI"
   },
   "lab": "Molecular Absorption Spectroscopy",
-  "lab_display_name": "Molecular Absorption Spectroscopy"
+  "lab_display_name": "Molecular Absorption Spectroscopy",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
