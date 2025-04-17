@@ -16,7 +16,7 @@
       "name": "Familiarization with the UV-Visible Absorption Spectroscopy",
       "short-name": "uv-visible-spectroscopy",
       "repo": "https://github.com/virtual-labs/exp-uv-visible-spectroscopy-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -24,20 +24,20 @@
       "short-name": "uv-visible-spectra",
       "repo": "https://github.com/virtual-labs/exp-uv-visible-spectra-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Effects of sample path length Dependence of Absorbance (Lambert Law)",
       "short-name": "lambert-law",
       "repo": "https://github.com/virtual-labs/exp-lambert-law-iiith",
       "tag": "v1.0.2",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Effects of sample concentration Dependence of Absorbance (Beer Law)",
       "short-name": "beer-law",
       "repo": "https://github.com/virtual-labs/exp-beer-law-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -45,27 +45,27 @@
       "short-name": "molar-absorptivity",
       "repo": "https://github.com/virtual-labs/exp-molar-absorptivity-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Verification of Beer-Lambert Law",
       "short-name": "beer-lambert-law",
       "repo": "https://github.com/virtual-labs/exp-beer-lambert-law-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Determination of unknown concentration of an analyte by using the Beer-Lambert Law ",
       "short-name": "unknown-concentration-analyte",
       "repo": "https://github.com/virtual-labs/exp-unknown-concentration-analyte-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance",
       "short-name": "additivity-of-absorbance",
       "repo": "https://github.com/virtual-labs/exp-additivity-of-absorbance-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -73,14 +73,14 @@
       "short-name": "spectrophotometric-method",
       "repo": "https://github.com/virtual-labs/exp-spectrophotometric-method-iiith",
       "tag": "v1.0.2",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Study of kinetics of a reaction by using spectrophotometric method ",
       "short-name": "study-of-kinetics",
       "repo": "https://github.com/virtual-labs/exp-study-of-kinetics-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     }
   ],
   "targetAudience": {
